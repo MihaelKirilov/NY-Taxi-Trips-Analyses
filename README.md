@@ -20,8 +20,8 @@ The data pipeline consists of the following steps:
 
 ## Visualizations
 
-Include visualizations of the following:
-1. **Data Insights**: Visualizations of insights and trends derived from the analyzed taxi trips data using Google Looker Studio.
+![project-1](https://github.com/MihaelKirilov/NY-Taxi-Trips-Analyses/assets/98331411/1a0c3760-8c44-4d63-bf99-3280e8c494b5)
+
 
 ## License
 
